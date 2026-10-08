@@ -1,4 +1,4 @@
-# WebrewScraper: API-para-Web-Scraper-de-Fermentos-Cervejeiros
+# WEBrewScraper: API-para-Web-Scraper-de-Fermentos-Cervejeiros
 Acesso sem download: https://webrewscraper.onrender.com
 
 Esta aplicação visa facilitar a procura por fermentos cervejeiros disponíveis para compra, permitindo uma busca filtrada por nomes, preços máximos e palavras-chave que descrevam os produtos desejados.
